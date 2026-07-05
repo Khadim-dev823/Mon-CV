@@ -1,0 +1,55 @@
+body {
+    width: 70%;
+    margin-left: 15%;
+}
+
+header {
+    text-align: center;
+    border-top: 10px solid #668CD8;
+    border-bottom: 10px solid #668CD8;
+    background-color: #E8EFF7;
+}
+
+#adresse {
+    text-align: left;
+    font-family: monospace;
+}
+
+header img {
+    float: right;
+    width: 15%;
+}
+
+article {
+    border-top: 10px solid #668CD8;
+    border-bottom: 10px solid #668CD8;
+    margin-top: 30pt;
+    background-color: #E8EFF7;
+}
+
+article h1 {
+    color: #385CA8;
+    font-variant: small-caps;
+    padding: 10px;
+}
+
+.annee {
+    font-weight: bold;
+    width: 100px;
+    display: block;
+    float: left;
+    background-color: #E8EFF7;
+}
+
+dt {
+    font-weight: bold;
+}
+
+footer {
+    font-size: xx-small;
+    font-variant: small-caps;
+    text-align: center;
+    border-top: 10px solid #688CD8;
+    border-bottom: 1px solid #688CD8;
+    margin-top: 4em;
+}
